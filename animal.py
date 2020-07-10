@@ -1,7 +1,7 @@
 import sys 
 
 def cat():
-    print('meow!')
+    print('Meow!')
 def dog():
     print('wooo')
 
