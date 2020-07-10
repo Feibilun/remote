@@ -3,7 +3,7 @@ import sys
 def cat():
     print('Meow!')
 def dog():
-    print('wooo')
+    print('Wooo')
 
 def default():
     print('hello')
